@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
  */
 
 /**
- * Maximum of four numbers
+ * task0419.Maximum of four numbers
  *
  * Use the keyboard to enter four numbers, and display the maximum of them.
  * If the numbers are equal to each other, display any of them.

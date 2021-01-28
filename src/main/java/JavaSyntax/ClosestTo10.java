@@ -5,7 +5,7 @@ package JavaSyntax;
  */
 
 /**
- * Closest to 10
+ * task0409.Closest to 10
  * <p>
  * Write the displayClosestToTen method.
  * The method should display the argument that is nearest to 10.

@@ -5,7 +5,7 @@ package JavaSyntax;
  */
 
 /**
- * Multiplication table
+ * task0314.Multiplication table
  *
  * Display a 10 x 10 multiplication table in the following form:
  * 1 2 3 4 …

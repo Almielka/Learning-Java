@@ -7,7 +7,7 @@ package JavaSyntax;
 import java.util.Scanner;
 
 /**
- * Number of days in the year
+ * task0414.Number of days in the year
  * <p>
  * Use the keyboard to enter a year, and then determine the number of days in the year.
  * Display the result as follows:

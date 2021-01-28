@@ -18,7 +18,7 @@ public class RuleOfTheTriangle {
     }
 
     /**
-     * Rule of the triangle
+     * task0415.Rule of the triangle
      * <p>
      * Use the keyboard to enter three numbers a, b, and c (the lengths of the sides of the proposed triangle).
      * Determine whether a triangle with these sides can exist. Display the result as follows:

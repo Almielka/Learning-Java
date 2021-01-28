@@ -5,7 +5,7 @@ package JavaSyntax;
  */
 
 /**
- * Sum of the digits of a three-digit number
+ * task0132.Sum of the digits of a three-digit number
  * <p>
  * Write the code for sumDigitsInNumber(int number). The method takes a three-digit whole number.
  * You need to calculate the sum of the digits of this number, and then return the result.

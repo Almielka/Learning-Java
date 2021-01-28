@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
  */
 
 /**
- * Crossing the road blindly
+ * task0416.Crossing the road blindly
  * <p>
  * The pedestrian traffic light is programmed as follows: at the beginning of each hour,
  * the green signal is on for three minutes, then the signal is yellow for one minute,
